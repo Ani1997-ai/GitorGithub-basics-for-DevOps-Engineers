@@ -169,5 +169,5 @@ history
 
 ## Note
           
-Feel free to use, modify, or contribute to this guide.
+Feel free to use, modify or contribute to this guide.
 
