@@ -17,7 +17,7 @@ Key features of Git:
 Why Git is important?
 
 - You never lose cod
-- You know who changed code what and when
+- You know everything who changed code what and when
 - Multiple people can work on the same project safely
 
 ---
