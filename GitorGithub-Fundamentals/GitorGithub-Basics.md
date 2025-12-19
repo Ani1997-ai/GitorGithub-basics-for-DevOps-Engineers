@@ -34,6 +34,28 @@ Commit - A snapshot of your code with a message
 
 ---
 
+## When to Use What?
+
+Use Git when:
+
+- Tracking code locally
+- Working offline
+- Automation scripts
+
+Use GitHub when:
+
+- Learning DevOps
+- Building portfolio
+- Open-source work
+
+Use GitLab when:
+
+- Enterprise DevOps
+- Strong CI/CD pipelines
+- Corporate projects
+
+---
+
 ## File System vs Version Control System
 
 | Feature                | File System           | Version Control System (Git) |
