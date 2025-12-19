@@ -9,9 +9,16 @@ This document serves as a complete beginner-friendly guide and cheat sheet for u
 Git is a distributed version control system created by Linus Torvalds. It helps developers track changes in their code, collaborate with teams, and manage different versions of projects efficiently.
 
 Key features of Git:
+
 - Tracks code history
 - Supports branching and merging
 - Enables collaboration via remote repositories (like GitHub)
+
+Why Git is important?
+
+- You never lose cod
+- You know who changed code what and when
+- Multiple people can work on the same project safely
 
 ---
 
