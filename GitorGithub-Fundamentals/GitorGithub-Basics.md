@@ -22,6 +22,26 @@ Why Git is important?
 
 ---
 
+## Git Basic Concepts
+
+Repository (Repo)
+
+A project folder tracked by Git
+
+Working Directory
+
+Your normal project folder where you edit files
+
+Staging Area
+
+Area where you prepare files before saving history
+
+Commit
+
+A snapshot of your code with a message
+
+---
+
 ## File System vs Version Control System
 
 | Feature                | File System           | Version Control System (Git) |
